@@ -87,7 +87,7 @@ As Sora evolves, CodexBook plans to:
 
 ## 🔗 Related Repositories
 This repository connects with an external manuscript repository used for real-world testing:  
-🔗 [Manuscript Repository](https://github.com/flavius-pax/manuscrito)
+🔗 [Manuscript Repository](https://github.com/flavius-pax/a-ordem-pos-quantica-e-a-batuta-de-neris)
 
 ## 📅 Next Steps
 - Refactor the editing interface to support block-based writing and semantic versioning  
