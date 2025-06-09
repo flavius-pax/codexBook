@@ -1,4 +1,4 @@
-# CodexBook
+# 📜 CodexBook
 
 **CodexBook is more than a writing tool — it's a sanctuary for narrative intelligence.**  
 
