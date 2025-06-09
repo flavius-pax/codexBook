@@ -20,6 +20,21 @@ This repository works in tandem with a complementary repository, where a manuscr
 
 🔗 [Manuscript Repository](https://github.com/flavius-pax/manuscrito)
 
+## Next Steps
+- Refactor the editing interface to support block-based writing and semantic versioning  
+- Finalize styleguide integration for real-time feedback during writing  
+- Enable dynamic translation workflows between English and Portuguese with GPT-4.5  
+- Prepare CodexBook for first public release under an open source license  
+- Integrate external narrative repositories (e.g., the manuscript repo) as modular content sources  
+- Begin Sora experimentation phase  
+
+## Planned Use of Sora
+As Sora capabilities mature, CodexBook will use it to:
+- Simulate different reader agents (philosophical, emotional, analytical) responding to narrative excerpts  
+- Generate visual scenes and atmospheres for symbolic validation  
+- Allow authors to test the interpretative range of their narrative through AI-driven narrative simulation  
+- Assist in cross-modal coherence by correlating imagery with emotional and vibrational tone in the text  
+
 ## License
 The project will be released as open source soon. Currently under internal development.
 
