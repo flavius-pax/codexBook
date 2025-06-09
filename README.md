@@ -104,4 +104,5 @@ This project will be released under an open source license soon. It is currently
 
 **📌 Note:** CodexBook is not a book generator. It is an intentional ecosystem where authors orchestrate narrative complexity — and the AI listens, reflects, and serves.
 
-Made with 🧠 by authors, for authors.
+CodexBook — crafted by the human hand, and AI refines the structure.
+
