@@ -20,7 +20,7 @@ CodexBook is to authors what **Codex is to developers** — a structured and int
 This is **writing with presence.**  
 This is authorship, orchestrated.
 
-> **CodexBook — crafted by the human hand, and AI refines the structure.**
+> **CodexBook — crafted by the human hand, and AI refines the structure and expands worlds.**
 
 ## 🎯 System Objective
 To build a 100% cloud-based web application using Django that allows:
@@ -121,4 +121,4 @@ This project will be released under an open source license soon. It is currently
 
 **📌 Note:** CodexBook is not a book generator. It is an intentional ecosystem where authors orchestrate narrative complexity — and the AI listens, reflects, and serves.
 
-CodexBook — crafted by the human hand, and AI refines the structure.
+CodexBook — crafted by the human hand, and AI refines the structure and expands worlds.
