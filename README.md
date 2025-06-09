@@ -1,6 +1,7 @@
 # CodexBook
 
 **CodexBook is more than a writing tool — it's a sanctuary for narrative intelligence.**  
+
 Designed for authors who don’t just write, but **weave meaning**, CodexBook offers a structured yet poetic space to shape, revise, and expand stories that carry symbolic depth and emotional coherence.
 
 Unlike tools that merely generate words, **CodexBook begins with a human voice** — treating it not as raw data, but as the *origin of intention*. The platform acts as an editorial orchestrator, aligning ideas, refining rhythm, and preserving authorship at every step. It doesn’t overwrite; it dialogues.
