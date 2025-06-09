@@ -15,10 +15,10 @@ It was created for those who know that a story is more than a sequence of events
 
 Here, **AI doesn’t pretend to be the author.** Instead, it listens. It reorganizes. It reveals hidden structures and offers new paths — but never steps ahead of the writer. CodexBook positions AI as a **technical mentor**, not a replacement. It exists to **expand your craft**, not dilute your voice.
 
+CodexBook is to authors what **Codex is to developers** — a structured and intelligent environment that respects the human mind while enhancing its output.
+
 This is **writing with presence.**  
 This is authorship, orchestrated.
-
----
 
 > **CodexBook — crafted by the human hand, and AI refines the structure.**
 
@@ -122,4 +122,3 @@ This project will be released under an open source license soon. It is currently
 **📌 Note:** CodexBook is not a book generator. It is an intentional ecosystem where authors orchestrate narrative complexity — and the AI listens, reflects, and serves.
 
 CodexBook — crafted by the human hand, and AI refines the structure.
-
